@@ -5,7 +5,7 @@ A 2D Minecraft-inspired game with chunk generation, block system, mobile control
 Check out the Browser version here: [![Play Now](https://img.shields.io/badge/Play%20Now-2D%20Minecraft-blue?style=for-the-badge)](https://elpedr.github.io/Minecraft2D/)
 
 ### 🎯 Project Goal
-This project aims to bring the Minecraft experience to a 2D platform. With a focus on procedural generation, user interaction, and mobile compatibility, it combines core Minecraft features with a simplified 2D environment.
+This project aims to bring the **Minecraft** experience to a 2D platform while I learn game development and programming concepts.
 
 ### 🌟 Features
 **Chunk Generation**: Procedurally generated chunks for unique terrain layouts.
