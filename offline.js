@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1730583943,
+	"version": 1730836610,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -7,6 +7,7 @@
 		"offlineClient.js",
 		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
+		"images/sprite2-sheet1.png",
 		"images/sprite3-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/sprite4-sheet1.png",
@@ -24,6 +25,8 @@
 		"images/sprite15-sheet0.png",
 		"images/sprite15-sheet1.png",
 		"images/sprite16-sheet0.png",
+		"images/tiledbackground.png",
+		"images/sprite17-sheet0.png",
 		"media/cloth1.ogg",
 		"media/cloth2.ogg",
 		"media/cloth3.ogg",
