@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1730836610,
+	"version": 1730853037,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,6 +27,11 @@
 		"images/sprite16-sheet0.png",
 		"images/tiledbackground.png",
 		"images/sprite17-sheet0.png",
+		"images/sprite19-sheet0.png",
+		"images/sprite21-sheet0.png",
+		"images/sprite22-sheet0.png",
+		"images/tiledbackground2.png",
+		"images/sprite23-sheet0.png",
 		"media/cloth1.ogg",
 		"media/cloth2.ogg",
 		"media/cloth3.ogg",
@@ -86,6 +91,7 @@
 		"media/graveli1.ogg",
 		"media/graveli2.ogg",
 		"media/graveli3.ogg",
+		"media/click.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
